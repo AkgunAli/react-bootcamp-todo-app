@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bootcamp-todo-app/static/css/main.a88c41d2.chunk.css",
+    "main.js": "/react-bootcamp-todo-app/static/js/main.16143d5b.chunk.js",
+    "main.js.map": "/react-bootcamp-todo-app/static/js/main.16143d5b.chunk.js.map",
+    "runtime-main.js": "/react-bootcamp-todo-app/static/js/runtime-main.c8ece3a0.js",
+    "runtime-main.js.map": "/react-bootcamp-todo-app/static/js/runtime-main.c8ece3a0.js.map",
+    "static/js/2.e6fcaaaa.chunk.js": "/react-bootcamp-todo-app/static/js/2.e6fcaaaa.chunk.js",
+    "static/js/2.e6fcaaaa.chunk.js.map": "/react-bootcamp-todo-app/static/js/2.e6fcaaaa.chunk.js.map",
+    "index.html": "/react-bootcamp-todo-app/index.html",
+    "precache-manifest.1cb76b1ef8d1b3bff2c1731c6457a8b6.js": "/react-bootcamp-todo-app/precache-manifest.1cb76b1ef8d1b3bff2c1731c6457a8b6.js",
+    "service-worker.js": "/react-bootcamp-todo-app/service-worker.js",
+    "static/css/main.a88c41d2.chunk.css.map": "/react-bootcamp-todo-app/static/css/main.a88c41d2.chunk.css.map",
+    "static/js/2.e6fcaaaa.chunk.js.LICENSE.txt": "/react-bootcamp-todo-app/static/js/2.e6fcaaaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8ece3a0.js",
+    "static/js/2.e6fcaaaa.chunk.js",
+    "static/css/main.a88c41d2.chunk.css",
+    "static/js/main.16143d5b.chunk.js"
+  ]
+}
