@@ -1,5 +1,5 @@
 
-## `KODLUYORUZ REACT BOOTCAMP react-bootcamp-todo-appr`
+## `KODLUYORUZ REACT BOOTCAMP react-bootcamp-todo-app`
 
 This project was bootstrapped with Create React App.
 
